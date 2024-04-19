@@ -1,4 +1,4 @@
-# <h1 align="center">**Condicional GAN**</h1>
+# <h1 align="center">**Conditional GAN**</h1>
 
 <p align="center">
 <img src="images/image_readme.png" width=500> 
